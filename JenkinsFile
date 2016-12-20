@@ -77,6 +77,3 @@ def appName() {
     app1 ? app1[0][1] : null
 
 }
-Contact GitHub API Training Shop Blog About 
-
-© 2016 GitHub, Inc. Terms Privacy Security Status Help 
