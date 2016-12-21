@@ -14,7 +14,7 @@
           "deploymentStatus": "false"
         },
         {
-          "environmentNames": "PROD",
+          "environmentNames": "UAT10",
           "logicalStage": "uat",
           "deploymentStatus": "false"
         }
